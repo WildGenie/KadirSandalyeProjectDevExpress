@@ -1,0 +1,14 @@
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\KadirSandalyeWinProject.Data.dll
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\KadirSandalyeWinProject.Data.pdb
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\obj\Debug\KadirSandalyeWinProject.Data.csprojAssemblyReference.cache
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\obj\Debug\KadirSandalyeWinProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\obj\Debug\KadirSandalyeWinProject.Data.dll
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\obj\Debug\KadirSandalyeWinProject.Data.pdb
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\EntityFramework.dll
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\KadirSandalyeWinProject.Model.dll
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\KadirSandalyeWinProject.Model.pdb
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\EntityFramework.xml
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\obj\Debug\KadirSandalyeWinProject.Data.csproj.CopyComplete
+C:\Users\nasuf\source\repos\KadirSandalyeWinProject\KadirSandalyeWinProject.Data\bin\Debug\KadirSandalyeWinProject.Model.dll.config
