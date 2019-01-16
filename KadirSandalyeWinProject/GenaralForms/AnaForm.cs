@@ -31,8 +31,8 @@ namespace KadirSandalyeWinProject.GenaralForms
         {
             if (e.Item == btnProductCards)
                 ShowListForms<ProductListForm>.ShowListForm(KartTuru.Product);
-            if (e.Item == btnCategoryCards)
-                ShowListForms<CategoryListForm>.ShowListForm(KartTuru.Category);
+            //if (e.Item == btnCategoryCards)
+                //ShowListForms<CategoryListForm>.ShowListForm(KartTuru.Category);
         }
     }
 }
